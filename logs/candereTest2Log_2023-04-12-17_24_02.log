@@ -1,0 +1,6 @@
+2023-Apr-12 17:24:04 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 17:24:04 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 17:24:14 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 17:24:14 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 17:24:15 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 17:24:19 pm [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Majestic Solitaire Diamond Ring and actual isMajestic Solitaire Diamond Ring

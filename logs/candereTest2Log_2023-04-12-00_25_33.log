@@ -1,0 +1,9 @@
+2023-Apr-12 00:25:34 am [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 00:25:34 am [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->70
+2023-Apr-12 00:26:28 am [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 00:26:28 am [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Online Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store and actual isOnline Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store
+2023-Apr-12 00:26:28 am [main] INFO  jewellery.stepdefs.StepDefs - Web driver wait set to->20
+2023-Apr-12 00:26:29 am [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 00:26:29 am [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 00:26:29 am [main] INFO  jewellery.stepdefs.StepDefs - user selected list 
+2023-Apr-12 00:26:31 am [main] INFO  jewellery.stepdefs.StepDefs - Browser closed

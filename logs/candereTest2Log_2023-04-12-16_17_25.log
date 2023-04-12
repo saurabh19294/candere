@@ -1,0 +1,13 @@
+2023-Apr-12 16:17:27 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:17:34 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:17:34 pm [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Online Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store and actual isOnline Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store
+2023-Apr-12 16:17:35 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:17:51 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:17:51 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 16:17:51 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 16:17:52 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:18:04 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:18:04 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 16:18:05 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 16:18:07 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:18:33 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url

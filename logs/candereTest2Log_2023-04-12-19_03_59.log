@@ -1,0 +1,3 @@
+2023-Apr-12 19:04:01 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 19:04:01 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 19:04:07 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url

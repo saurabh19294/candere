@@ -1,0 +1,12 @@
+2023-Apr-12 14:00:18 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 14:00:19 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 14:00:20 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 14:00:20 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser closed
+2023-Apr-12 14:00:21 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 14:00:21 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 14:00:23 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 14:00:23 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser closed
+2023-Apr-12 14:00:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 14:00:24 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 14:00:25 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 14:00:25 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser closed

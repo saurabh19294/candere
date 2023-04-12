@@ -1,0 +1,21 @@
+2023-Apr-12 22:35:14 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 22:35:15 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 22:35:37 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 22:35:37 pm [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Online Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store and actual isOnline Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store
+2023-Apr-12 22:35:38 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 22:35:38 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 22:35:52 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 22:35:52 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 22:35:52 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 22:35:53 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 22:35:54 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 22:36:07 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 22:36:07 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 22:36:07 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 22:36:11 pm [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Majestic Solitaire Diamond Ring and actual isMajestic Solitaire Diamond Ring
+2023-Apr-12 22:37:48 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 22:37:48 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 22:38:03 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 22:38:05 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 22:38:05 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 22:38:17 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url

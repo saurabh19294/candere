@@ -1,0 +1,9 @@
+2023-Apr-12 19:11:17 pm [main] INFO  core.WebDriverfactory - Chrome Browser invoked
+2023-Apr-12 19:11:18 pm [main] INFO  core.WebDriverfactory - Driver maximized and implicit time out set to 20 seconds
+2023-Apr-12 19:11:23 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: About Our Company Actual: About Our Company
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: Terms and Conditions Actual: Terms and Conditions
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: Privacy Policy Actual: Privacy Policy
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: FAQ Actual: FAQ
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: Offers T&Cs Actual: Offers T&Cs
+2023-Apr-12 19:11:24 pm [main] INFO  jewellery.stepdefs.StepDefs - Expected: Customer Reviews Actual: Customer Reviews

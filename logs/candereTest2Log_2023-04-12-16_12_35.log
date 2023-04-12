@@ -1,0 +1,20 @@
+2023-Apr-12 16:12:37 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:12:37 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 16:12:57 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:12:57 pm [main] INFO  jewellery.stepdefs.StepDefs - Assertion page validate is passed with expected as -> Online Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store and actual isOnline Jewellery Shopping India | Candere By Kalyan Jewellers | Most Trusted Online Jewellery Store
+2023-Apr-12 16:12:59 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:12:59 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 16:13:52 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:13:52 pm [main] INFO  jewellery.stepdefs.StepDefs - Web driver wait set to->20
+2023-Apr-12 16:13:52 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 16:13:53 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 16:13:54 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:13:54 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 16:14:02 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:14:02 pm [main] INFO  jewellery.stepdefs.StepDefs - Web driver wait set to->20
+2023-Apr-12 16:14:03 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 16:14:04 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element
+2023-Apr-12 16:14:05 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:14:05 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 16:14:12 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:14:15 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url

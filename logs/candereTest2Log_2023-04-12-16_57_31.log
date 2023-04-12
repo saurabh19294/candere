@@ -1,0 +1,4 @@
+2023-Apr-12 16:57:32 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 16:57:39 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 16:57:39 pm [main] INFO  jewellery.stepdefs.StepDefs - waiting for the webelement 
+2023-Apr-12 16:57:39 pm [main] INFO  jewellery.stepdefs.StepDefs - sending keys to web element

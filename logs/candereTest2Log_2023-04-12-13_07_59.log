@@ -1,0 +1,4 @@
+2023-Apr-12 13:08:01 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser got set
+2023-Apr-12 13:08:01 pm [main] INFO  jewellery.stepdefs.StepDefs -  Browser implicit timeout set to ->20
+2023-Apr-12 13:10:50 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser invoked with url
+2023-Apr-12 13:10:51 pm [main] INFO  jewellery.stepdefs.StepDefs - Browser closed
